@@ -3,7 +3,7 @@ const path = require("path");
 const router = require("express").Router();
 
 // GET routes to direct to HTML page in public folder
-router.get("/", function (req, res){
+router.get("/", function (req, res) {
     res.sendFile(path.join(__dirname, "../public/index.html"));
 });
 
