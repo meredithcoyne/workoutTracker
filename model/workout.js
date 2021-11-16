@@ -60,3 +60,17 @@ const WorkoutSchema = new Schema({
     }
 }
 );
+
+// show virtual graph for totalDuration
+WorkoutSchema.virtual("totalDuration").get(function () {
+
+});
+
+WorkoutSchema.virtual("totalDistance").get(function () {
+    // show exercise to the current total distance
+
+});
+
+const workout = mongoose.model("workout", workoutSchema);
+
+module.exports = workout;
