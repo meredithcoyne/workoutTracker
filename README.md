@@ -2,6 +2,7 @@
 
 ## Description
 --------------
+Front-end Fitness Tracker that connects with Mongo DB with a Mongoose Schema and launches with Heroku
 ## Table of Contents
 --------------------
 
@@ -14,19 +15,24 @@
 
 ## Goals
 --------
+* User can add an exercises based on cardio options and resistance options. 
+* Data is added as entries are completed to the database
+* User is given options to create their database of tracking with weight, reps, sets, distance, and time.
+* User can follow up on past progress with a stats page.
 
 ## Usage
 -------
+Fitness Tracker for Cardio and Resistance Training
 
 ## Installation
 ---------------
+* Install: npm i
+* Seeding: node seers/seed.js
+* Connects to Server with node server.js
 
 ## Visualization
 ----------------
 
-### Screenshots
-
-### Demo
 
 ## License
 -----------
@@ -41,5 +47,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contact
 ----------
 
-Github Profile
-Email: 
+[Github Fitness Tracker Repository](https://github.com/meredithcoyne/workoutTracker)
+
+Email: meredithleigh.coyne@gmail.com
+
+[Deployed Fitness Tracker Page](https://intense-hollows-42979.herokuapp.com/)
