@@ -32,8 +32,9 @@ Fitness Tracker for Cardio and Resistance Training
 
 ## Visualization
 ----------------
-
-
+![Homepage](public/assets/img/screenshot_1.png)
+![Tracking](public/assets/img/screenshot_2.png)
+![Log](public/assets/img/screenshot_3.png)
 ## License
 -----------
 Copyright 2021 Meredith Coyne
@@ -52,3 +53,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Email: meredithleigh.coyne@gmail.com
 
 [Deployed Fitness Tracker Page](https://intense-hollows-42979.herokuapp.com/)
+
+![Homepage](public/assets/img/screenshot_1.png)
