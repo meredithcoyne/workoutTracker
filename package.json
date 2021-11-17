@@ -1,7 +1,7 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using Mongo database, mongoose schema, and handle routes with Express to build a tracker that stores workout activity data",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +15,15 @@
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meredithcoyne/workoutTracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/meredithcoyne/workoutTracker/issues"
+  },
+  "homepage": "https://github.com/meredithcoyne/workoutTracker#readme"
 }
